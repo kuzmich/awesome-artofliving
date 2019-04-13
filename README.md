@@ -26,6 +26,7 @@
 
 ### Шри Шри
 - [en] <https://twitter.com/srisri> - официальный твиттер Шри Шри Рави Шанкара
+- https://twitter.com/shshravishankar - переводы твитов
 - https://www.facebook.com/SriSriRaviShankarRus/
 
 ## Места
