@@ -6,6 +6,7 @@
 * [Личности](#личности)
 * [Места](#места)
 * [Продукция](#продукция)
+* [Разное](#разное)
 
 ## Основные
 - <https://artofliving.ru>
@@ -33,3 +34,6 @@
 ## Продукция
 - [en] <https://www.srisritattva.com>
 - <https://sattvastore.ru/>
+
+## Разное
+- <https://kuzmich.github.io/aol-cities-map/> - карта городов
